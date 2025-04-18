@@ -1,0 +1,7 @@
+study_time,previous_grade,absences,parent_education,final_grade
+5,80,3,high_school,85
+6,85,2,bachelor,90
+2,50,6,high_school,55
+3,60,4,bachelor,65
+4,70,3,master,75
+6,88,1,master,92
